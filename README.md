@@ -11,9 +11,9 @@ Protocol : 8 out of 10 people met 10 partners (the other ones : 6). Everybody ha
 
 What kind of code you will find : 
 # **Interactive Data visualization** with **DASH** to get a first exhaustive glance on main data (pie-char, histogram, scatter plot)
-[interactive_histograms.txt](https://github.com/Xhrys69/predict_love/files/9801858/interactive_histograms.txt)
-[interactive_pie-charts.txt](https://github.com/Xhrys69/predict_love/files/9801859/interactive_pie-charts.txt)
-[intteractive_scatterplots.txt](https://github.com/Xhrys69/predict_love/files/9801860/intteractive_scatterplots.txt)
+[interactive_histograms.txt](https://github.com/Xhrys69/predict_love/files/9801858/interactive_histograms.txt) **Visualize on Dash** : (http://127.0.0.1:1050/)
+[interactive_pie-charts.txt](https://github.com/Xhrys69/predict_love/files/9801859/interactive_pie-charts.txt) **Visualize on Dash** : (http://127.0.0.1:2050/)
+[[interactive_scatterplots.txt](https://github.com/Xhrys69/predict_love/files/9801860/intteractive_scatterplots.txt)] **Visualize on Dash** : (http://127.0.0.1:3050/)
 
 # Data cleaning and descriptive statistics with Python (pandas, numpy) 
 [Data_cleaning_easy-date_Train.pdf](https://github.com/Xhrys69/predict_love/files/9801930/Data_cleaning_easy-date_Train.pdf)
