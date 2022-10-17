@@ -1,3 +1,4 @@
+
 # predict_love
 Data visualisation with DASH / Data cleaning  + descriptive statistics and Machine learning with Python (pandas,numpy, scikitlearn)
 
@@ -10,5 +11,12 @@ Protocol : 8 out of 10 people met 10 partners (the other ones : 6). Everybody ha
 
 What kind of code you will find : 
 # **Interactive Data visualization** with **DASH** to get a first exhaustive glance on main data (pie-char, histogram, scatter plot)
+[interactive_histograms.txt](https://github.com/Xhrys69/predict_love/files/9801858/interactive_histograms.txt)
+[interactive_pie-charts.txt](https://github.com/Xhrys69/predict_love/files/9801859/interactive_pie-charts.txt)
+[intteractive_scatterplots.txt](https://github.com/Xhrys69/predict_love/files/9801860/intteractive_scatterplots.txt)
+
 # Data cleaning and descriptive statistics with Python (pandas, numpy) 
+[Data_cleaning_easy-date_Train.pdf](https://github.com/Xhrys69/predict_love/files/9801930/Data_cleaning_easy-date_Train.pdf)
+
 # **Anova and Machine learning** with Python (scikit learn – TreeClassifier and Random Forest after SMOTE)
+[Machine_learning_F1 score 61%_Anova_Smote_tree_classifier_random_forest.pdf](https://github.com/Xhrys69/predict_love/files/9801938/Machine_learning_F1.score.61._Anova_Smote_tree_classifier_random_forest.pdf)
