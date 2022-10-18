@@ -34,7 +34,7 @@ What kind of code you will find :
 https://github.com/spicatchou/Easydate-Christolic/blob/074dfa0d462e7cc46a527e52812a0d2481db1aca/easydate.ipynb
 
 
-#**PART 2 : DEPLOYEMENT**
+#**PART 2 : DEPLOYMENT**
 
 (1)**This model can be directly run with Python**
 
