@@ -22,9 +22,11 @@ What kind of code you will find :
 -> How to proceed  ? (1) Open Visual Studio Code (2) Connect the terminal to a Virtual Environnement (3) Paste the txt.file (4) Run the file
 
 (2) **Data cleaning and descriptive statistics with Python (pandas, numpy)**
+
 [Data_cleaning_easy-date_Train.pdf](https://github.com/Xhrys69/predict_love/files/9801930/Data_cleaning_easy-date_Train.pdf)
 
 (3) 1st Model we built : **Anova and Machine learning** with Python (scikit learn – TreeClassifier and Random Forest after SMOTE)
+
 [Machine_learning_F1 score 61%_Anova_Smote_tree_classifier_random_forest.pdf](https://github.com/Xhrys69/predict_love/files/9801938/Machine_learning_F1.score.61._Anova_Smote_tree_classifier_random_forest.pdf)
 
 (4) 2nd Model we built : **Our winner Model (F1 score : 78%. Error rate : 9.5%) !**
@@ -39,6 +41,7 @@ https://github.com/spicatchou/Easydate-Christolic/blob/074dfa0d462e7cc46a527e528
 https://github.com/spicatchou/Easydate-Christolic/blob/d98cf5e310d043dc1cd2cec4afa44a8607cb8bdc/model.sav
 
 **Interactive Data visualisation of the results**
+
 https://github.com/spicatchou/Easydate-Christolic/blob/64e5eb550053050d92d9d88d429ddad435721f5c/dash-result.py
 
 
