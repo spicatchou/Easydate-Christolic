@@ -10,7 +10,8 @@ Provided data : a survey carried out by a group of students at Columbia Universi
 Protocol : 8 out of 10 people met 10 partners (the other ones : 6). Everybody had to fill-in an extensive form covering demo (age, gender,…), personal fields of interest (TV, reading,…), and their expectations regarding their ideal partner. All the met partners rated them in return (e.g.: "On a scale from 0 to 10, to what extend look your partner attractive ?") Ouput : 70 variables to be cleaned (missing data, same intel reported several times in different columns). 
 
 What kind of code you will find : 
-# **Interactive Data visualization** with **DASH** to get a first exhaustive glance on main data (pie-char, histogram, scatter plot)
+# **Interactive Data visualization** with **DASH** to get a first exhaustive glance on main data (pie-char, histogram, scatter plot) 
+#** How does it work ?**(1) Open Visual Studio Code (2) Connect the terminal to a Virtual Environnement (3) Paste the txt.file (4) Validate
 [interactive_histograms.txt](https://github.com/Xhrys69/predict_love/files/9801858/interactive_histograms.txt) 
 [interactive_pie-charts.txt](https://github.com/Xhrys69/predict_love/files/9801859/interactive_pie-charts.txt) 
 [[interactive_scatterplots.txt](https://github.com/Xhrys69/predict_love/files/9801860/interactive_scatterplots.txt)] 
