@@ -27,7 +27,8 @@ What kind of code you will find :
 (3) 1st Model we built : **Anova and Machine learning** with Python (scikit learn – TreeClassifier and Random Forest after SMOTE)
 [Machine_learning_F1 score 61%_Anova_Smote_tree_classifier_random_forest.pdf](https://github.com/Xhrys69/predict_love/files/9801938/Machine_learning_F1.score.61._Anova_Smote_tree_classifier_random_forest.pdf)
 
-#2nd Model we built : Our winner Model (F1 score : 78%. Error rate : 9.5%) !
+(4) 2nd Model we built : **Our winner Model (F1 score : 78%. Error rate : 9.5%) !
+
 https://github.com/spicatchou/Easydate-Christolic/blob/074dfa0d462e7cc46a527e52812a0d2481db1aca/easydate.ipynb
 
 
@@ -37,7 +38,7 @@ https://github.com/spicatchou/Easydate-Christolic/blob/074dfa0d462e7cc46a527e528
 
 https://github.com/spicatchou/Easydate-Christolic/blob/d98cf5e310d043dc1cd2cec4afa44a8607cb8bdc/model.sav
 
-** Interactive Data visualisation of the results**
+**Interactive Data visualisation of the results**
 https://github.com/spicatchou/Easydate-Christolic/blob/64e5eb550053050d92d9d88d429ddad435721f5c/dash-result.py
 
 
