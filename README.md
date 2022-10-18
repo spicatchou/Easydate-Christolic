@@ -7,7 +7,7 @@ Our mission : to find out the best model capable of predicting “love”- let�
 
 Provided data : a survey carried out by a group of students at Columbia University.  Sample : 6804 students – around half coming from miscellaneous American universities – the other half coming from European or Asian universities. Average Age : 26 y.o. Rate of match : < 20%. 
 
-Protocol : 8 out of 10 people met 10 partners (the other ones : 6). Everybody had to fill-in an extensive form covering demo (age, gender,…), personal fields of interest (TV, reading,…), and their expectations regarding their ideal partner. All the met partners rated them in return (e.g.: "On a scale from 0 to 10, to what extend was your partner attractive ?") Ouput : 70 variables to be cleaned (some missing data, same intel reported several times in different columns, ...). 
+Protocol : 8 out of 10 people met 10 partners (the other ones : 6). Everybody had to fill-in an extensive form covering demo (age, gender,…), personal fields of interest (TV, reading,…), and their expectations regarding their ideal partner. All the met partners rated them in return (e.g.: "On a scale from 0 to 10, to what extent was your partner attractive ?") Ouput : 70 variables to be cleaned (some missing data, same intel reported several times in different columns, ...). 
 
 What kind of code you will find : 
 
