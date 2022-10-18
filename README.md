@@ -29,7 +29,7 @@ What kind of code you will find :
 
 [Machine_learning_F1 score 61%_Anova_Smote_tree_classifier_random_forest.pdf](https://github.com/Xhrys69/predict_love/files/9801938/Machine_learning_F1.score.61._Anova_Smote_tree_classifier_random_forest.pdf)
 
-(4) 2nd Model we built : **Our winner Model (F1 score : 78%. Error rate : 9.5%) !**
+(4) 2nd Model we built : **Our winner (F1 score : 78%. Error rate : 9.5%) !**
 
 https://github.com/spicatchou/Easydate-Christolic/blob/074dfa0d462e7cc46a527e52812a0d2481db1aca/easydate.ipynb
 
