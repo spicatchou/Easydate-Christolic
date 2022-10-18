@@ -24,3 +24,4 @@ What kind of code you will find :
 [Machine_learning_F1 score 61%_Anova_Smote_tree_classifier_random_forest.pdf](https://github.com/Xhrys69/predict_love/files/9801938/Machine_learning_F1.score.61._Anova_Smote_tree_classifier_random_forest.pdf)
 
 #**PART 2 : DEPLOYEMENT **
+model.sav
