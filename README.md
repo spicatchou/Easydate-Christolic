@@ -24,6 +24,7 @@ What kind of code you will find :
 [Machine_learning_F1 score 61%_Anova_Smote_tree_classifier_random_forest.pdf](https://github.com/Xhrys69/predict_love/files/9801938/Machine_learning_F1.score.61._Anova_Smote_tree_classifier_random_forest.pdf)
 
 #**PART 2 : DEPLOYEMENT **
-[Uploading model.sav…]()
+**This model can be directly run with Python
+https://github.com/spicatchou/Easydate-Christolic/blob/d98cf5e310d043dc1cd2cec4afa44a8607cb8bdc/model.sav
 
 
