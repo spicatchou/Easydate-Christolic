@@ -1,5 +1,5 @@
 
-# predict_love
+# Predict_love
 Data visualisation with DASH / Data cleaning  + descriptive statistics and Machine learning with Python (pandas,numpy, scikitlearn)
 
 Hi, let’s talk about machine learning, get back when we carried out the first team-project of the year spent at the French university Lyon II in order to be graduated in Data Science in 2023 (Master). 
