@@ -36,11 +36,11 @@ https://github.com/spicatchou/Easydate-Christolic/blob/074dfa0d462e7cc46a527e528
 
 #**PART 2 : DEPLOYEMENT**
 
-**This model can be directly run with Python**
+(1)**This model can be directly run with Python**
 
 https://github.com/spicatchou/Easydate-Christolic/blob/d98cf5e310d043dc1cd2cec4afa44a8607cb8bdc/model.sav
 
-**Interactive Data visualisation of the results**
+(2)**Interactive Data visualisation of the results**
 
 https://github.com/spicatchou/Easydate-Christolic/blob/64e5eb550053050d92d9d88d429ddad435721f5c/dash-result.py
 
