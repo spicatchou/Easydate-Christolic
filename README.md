@@ -11,7 +11,7 @@ Protocol : 8 out of 10 people met 10 partners (the other ones : 6). Everybody ha
 
 What kind of code you will find : 
 # **Interactive Data visualization** with **DASH** to get a first exhaustive glance on main data (pie-char, histogram, scatter plot) 
-#** How does it work ?**(1) Open Visual Studio Code (2) Connect the terminal to a Virtual Environnement (3) Paste the txt.file (4) Validate
+#** How does it work ?**(1) Open Visual Studio Code (2) Connect the terminal to a Virtual Environnement (3) Paste the txt.file (4) Run the file
 [interactive_histograms.txt](https://github.com/Xhrys69/predict_love/files/9801858/interactive_histograms.txt) 
 [interactive_pie-charts.txt](https://github.com/Xhrys69/predict_love/files/9801859/interactive_pie-charts.txt) 
 [[interactive_scatterplots.txt](https://github.com/Xhrys69/predict_love/files/9801860/interactive_scatterplots.txt)] 
