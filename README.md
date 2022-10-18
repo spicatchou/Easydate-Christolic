@@ -2,7 +2,7 @@
 # predict_love
 Data visualisation with DASH / Data cleaning  + descriptive statistics and Machine learning with Python (pandas,numpy, scikitlearn)
 
-Hi, let’s talk about machine learning, get back to the first team-project of the year spent at the French university Lyon II in order to be graduated in Data Science in 2023 (Master). 
+Hi, let’s talk about machine learning, get back when we carried out the first team-project of the year spent at the French university Lyon II in order to be graduated in Data Science in 2023 (Master). 
 Our mission : to find out the best model aiming at predicting “love”- let’s call it “match” - between two people. In other words, discover the magic formula to take over the “speed dating” heterosexual market. **KPI : f1 score**. 
 
 Provided data : a survey carried out by a group of students at Columbia University.  Sample : 6804 students – around half coming from miscellaneous American universities – the other half coming from European or Asian universities. Average Age : 26 y.o. Rate of match : < 20%. 
@@ -11,9 +11,9 @@ Protocol : 8 out of 10 people met 10 partners (the other ones : 6). Everybody ha
 
 What kind of code you will find : 
 # **Interactive Data visualization** with **DASH** to get a first exhaustive glance on main data (pie-char, histogram, scatter plot)
-[interactive_histograms.txt](https://github.com/Xhrys69/predict_love/files/9801858/interactive_histograms.txt) **Visualize on Dash** : (http://127.0.0.1:1050/)
-[interactive_pie-charts.txt](https://github.com/Xhrys69/predict_love/files/9801859/interactive_pie-charts.txt) **Visualize on Dash** : (http://127.0.0.1:2050/)
-[[interactive_scatterplots.txt](https://github.com/Xhrys69/predict_love/files/9801860/intteractive_scatterplots.txt)] **Visualize on Dash** : (http://127.0.0.1:3050/)
+[interactive_histograms.txt](https://github.com/Xhrys69/predict_love/files/9801858/interactive_histograms.txt) 
+[interactive_pie-charts.txt](https://github.com/Xhrys69/predict_love/files/9801859/interactive_pie-charts.txt) 
+[[interactive_scatterplots.txt](https://github.com/Xhrys69/predict_love/files/9801860/interactive_scatterplots.txt)] 
 
 # Data cleaning and descriptive statistics with Python (pandas, numpy) 
 [Data_cleaning_easy-date_Train.pdf](https://github.com/Xhrys69/predict_love/files/9801930/Data_cleaning_easy-date_Train.pdf)
