@@ -15,7 +15,7 @@ What kind of code you will find :
 
 (1) **Interactive Data visualization** with **DASH** to get a first glance on main data (pie-chart, histogram, scatter plot) 
 
-  a. Scatter-plot. Axes : Member's age x Partner's age to observe to what extent the researchers obviously decided to pair couples according to the age. Filter according to fun_o : to visualise the impact of this main correlated variable (Fun_o = rating on 10 concerning the  partner : was he fun or not ?). Colors according to Match (Yes/ No). Siez of the circles : small = 6 partners met (limited choice) / big = 10 partners met (extensive choice).
+  a. Scatter plot. Axes : Member's age x Partner's age to observe to what extent the researchers obviously decided to pair couples according to the age. Filter according to fun_o : to visualise the impact of this main correlated variable (Fun_o = rating on 10 concerning the  partner : was he fun or not ?). Colors according to Match (Yes/ No). Siez of the circles : small = 6 partners met (limited choice) / big = 10 partners met (extensive choice).
   
   b. Pie-charts to browse main available variables in the dataset + histograms on main interesting variables (breakdowns by match)
 [interactive_histograms.txt](https://github.com/Xhrys69/predict_love/files/9801858/interactive_histograms.txt) 
