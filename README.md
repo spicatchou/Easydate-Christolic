@@ -15,11 +15,20 @@ What kind of code you will find :
 
 (1) **Interactive Data visualization** with **DASH** to get a first glance on main data (pie-chart, histogram, scatter plot) 
 
+  a. Scatter-plot. Axes : Member's age x Partner's age. Range slider : Fun_o (main variable correlated to match). Colors according to Match (Yes/ No). Bullet sizes : small = only 6 partners met (limited choixe choice) / big = 10 partners met (extensive choice).
+  
+  b. Pie-charts to browse main available variables + histograms on main interesting variables
 [interactive_histograms.txt](https://github.com/Xhrys69/predict_love/files/9801858/interactive_histograms.txt) 
 [interactive_pie-charts.txt](https://github.com/Xhrys69/predict_love/files/9801859/interactive_pie-charts.txt) 
 [[interactive_scatterplots.txt](https://github.com/Xhrys69/predict_love/files/9801860/interactive_scatterplots.txt)] 
 
 -> How to proceed  ? (1) Open Visual Studio Code (2) Connect the terminal to a Virtual Environnement (3) Paste the txt.file (4) Run the file
+
+**Or, to visualise directly the dynamic charts via Heroku, go to :*
+
+  https://christolic-scatter1.herokuapp.com/
+  https://christolic-bar.herokuapp.com/
+  https://christolic-piechart.herokuapp.com/
 
 (2) **Data cleaning and descriptive statistics with Python (pandas, numpy)**
 
