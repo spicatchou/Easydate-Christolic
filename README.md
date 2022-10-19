@@ -17,7 +17,7 @@ What kind of code you will find :
 
   a. Scatter plot. Axes : Member's age x Partner's age to observe to what extent the researchers obviously decided to pair couples according to the age. Filter according to fun_o : to visualise the impact of this main correlated variable (Fun_o = rating on 10 concerning the  partner : was he fun or not ?). Colors according to Match (Yes/ No). Siez of the circles : small = 6 partners met (limited choice) / big = 10 partners met (extensive choice).
   
-  b. Pie-charts to browse main available variables in the dataset + histograms on main interesting variables (breakdowns by match)
+  b. Pie-charts to browse main available variables in the dataset + histograms on main interesting variables (breakdown by 'match')
 [interactive_histograms.txt](https://github.com/Xhrys69/predict_love/files/9801858/interactive_histograms.txt) 
 [interactive_pie-charts.txt](https://github.com/Xhrys69/predict_love/files/9801859/interactive_pie-charts.txt) 
 [[interactive_scatterplots.txt](https://github.com/Xhrys69/predict_love/files/9801860/interactive_scatterplots.txt)] 
@@ -37,11 +37,11 @@ What kind of code you will find :
 
 [Data_cleaning_easy-date_Train.pdf](https://github.com/Xhrys69/predict_love/files/9801930/Data_cleaning_easy-date_Train.pdf)
 
-(3) 1st Model we built : **Variables selected thanks to an Anova and Machine learning with Python (scikit learn – TreeClassifier and Random Forest after SMOTE)
+(3) 1st Model we built : **Variables selected thanks to an Anova,then Machine learning with Python (scikit learn – TreeClassifier and Random Forest after SMOTE in order to balance samples)
 
 [Machine_learning_F1 score 61%_Anova_Smote_tree_classifier_random_forest.pdf](https://github.com/Xhrys69/predict_love/files/9801938/Machine_learning_F1.score.61._Anova_Smote_tree_classifier_random_forest.pdf)
 
-(4) 2nd Model we built : **Our winner (F1 score : 78%. Error rate : 9.5%) !**
+(4) 2nd Model we built : **Our winner (F1 score : 78%. Error rate : 9.5%. Model : Random forest) !**
 
 https://github.com/spicatchou/Easydate-Christolic/blob/074dfa0d462e7cc46a527e52812a0d2481db1aca/easydate.ipynb
 
