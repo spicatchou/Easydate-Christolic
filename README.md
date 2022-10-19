@@ -15,26 +15,29 @@ What kind of code you will find :
 
 (1) **Interactive Data visualization** with **DASH** to get a first glance on main data (pie-chart, histogram, scatter plot) 
 
-  a. Scatter-plot. Axes : Member's age x Partner's age. Range slider : Fun_o (main variable correlated to match). Colors according to Match (Yes/ No). Bullet sizes : small = only 6 partners met (limited choixe choice) / big = 10 partners met (extensive choice).
+  a. Scatter-plot. Axes : Member's age x Partner's age. Slider to visualise the impact of the main correlated variable to match : Fun_o (= rating on 10 concerning the  partner: was he fun or not ?). Colors according to Match (Yes/ No). Bullet sizes : small = only 6 partners met (limited choixe choice) / big = 10 partners met (extensive choice).
   
-  b. Pie-charts to browse main available variables + histograms on main interesting variables
+  b. Pie-charts to browse main available variables in the dataset + histograms on main interesting variables (breakdowns by match)
 [interactive_histograms.txt](https://github.com/Xhrys69/predict_love/files/9801858/interactive_histograms.txt) 
 [interactive_pie-charts.txt](https://github.com/Xhrys69/predict_love/files/9801859/interactive_pie-charts.txt) 
 [[interactive_scatterplots.txt](https://github.com/Xhrys69/predict_love/files/9801860/interactive_scatterplots.txt)] 
 
 -> How to proceed  ? (1) Open Visual Studio Code (2) Connect the terminal to a Virtual Environnement (3) Paste the txt.file (4) Run the file
 
-**Or, to visualise directly the dynamic charts via Heroku, go to :*
+**Or, to visualise directly the dynamic charts via Heroku, go to:*
 
   https://christolic-scatter1.herokuapp.com/
+  
   https://christolic-bar.herokuapp.com/
+  
   https://christolic-piechart.herokuapp.com/
+  
 
 (2) **Data cleaning and descriptive statistics with Python (pandas, numpy)**
 
 [Data_cleaning_easy-date_Train.pdf](https://github.com/Xhrys69/predict_love/files/9801930/Data_cleaning_easy-date_Train.pdf)
 
-(3) 1st Model we built : **Anova and Machine learning** with Python (scikit learn – TreeClassifier and Random Forest after SMOTE)
+(3) 1st Model we built : **Variables selected thanks to an Anova and Machine learning with Python (scikit learn – TreeClassifier and Random Forest after SMOTE)
 
 [Machine_learning_F1 score 61%_Anova_Smote_tree_classifier_random_forest.pdf](https://github.com/Xhrys69/predict_love/files/9801938/Machine_learning_F1.score.61._Anova_Smote_tree_classifier_random_forest.pdf)
 
