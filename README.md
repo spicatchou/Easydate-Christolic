@@ -26,11 +26,7 @@ What kind of code you will find :
 
 **Ortherwise, to visualise directly the dynamic charts via Heroku, go to:**
 
-  https://christolic-scatter1.herokuapp.com/
-  
-  https://christolic-bar.herokuapp.com/
-  
-  https://christolic-piechart.herokuapp.com/
+  https://christolic-dash-easydate.herokuapp.com/
   
 
 (2) **Data cleaning and descriptive statistics with Python (pandas, numpy)**
@@ -54,6 +50,6 @@ https://github.com/spicatchou/Easydate-Christolic/blob/d98cf5e310d043dc1cd2cec4a
 
 (2)**Interactive Data visualisation of the results**
 
-https://github.com/spicatchou/Easydate-Christolic/blob/64e5eb550053050d92d9d88d429ddad435721f5c/dash-result.py
+https://christolic-dash-easydate.herokuapp.com/
 
 
