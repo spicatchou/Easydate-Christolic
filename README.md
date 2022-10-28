@@ -24,7 +24,7 @@ What kind of code you will find :
 
 -> How to proceed  ? (1) Open Visual Studio Code (2) Connect the terminal to a Virtual Environnement (3) Paste the txt.file (4) Run the file
 
-**Ortherwise, to visualise directly the dynamic charts via Heroku, go to:**
+**HEROKU. Otherwise, you can visualise directly the dynamic charts via Heroku :**
 
   https://christolic-dash-easydate.herokuapp.com/
   
